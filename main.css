@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(25, 25, 40);
+    padding: 50px;
+    color: rgb(230, 230, 255);
+    font-family: 'arial';
+}
+
+footer {
+    padding-top: 60px;
+}
+
+a:link {
+    color: rgb(75, 75, 220);
+}
+
+a:visited {
+    color: rgb(75, 75, 150);
+}
